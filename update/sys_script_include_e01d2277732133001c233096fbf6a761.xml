@@ -10,6 +10,7 @@
         <script><![CDATA[var si3 = Class.create();
 si3.prototype = {
     initialize: function() {
+		//commit si3
     },
 
     type: 'si3'
@@ -18,13 +19,13 @@ si3.prototype = {
         <sys_created_by>admin</sys_created_by>
         <sys_created_on>2019-05-28 08:34:58</sys_created_on>
         <sys_id>e01d2277732133001c233096fbf6a761</sys_id>
-        <sys_mod_count>0</sys_mod_count>
+        <sys_mod_count>1</sys_mod_count>
         <sys_name>si3</sys_name>
         <sys_package display_value="may_28" source="sn_may_28">5a7ceeb3732133001c233096fbf6a70a</sys_package>
         <sys_policy>read</sys_policy>
         <sys_scope display_value="may_28">5a7ceeb3732133001c233096fbf6a70a</sys_scope>
         <sys_update_name>sys_script_include_e01d2277732133001c233096fbf6a761</sys_update_name>
         <sys_updated_by>admin</sys_updated_by>
-        <sys_updated_on>2019-05-28 08:34:58</sys_updated_on>
+        <sys_updated_on>2019-05-28 08:57:15</sys_updated_on>
     </sys_script_include>
 </record_update>
