@@ -16,7 +16,7 @@
         <runtime_access_tracking>permissive</runtime_access_tracking>
         <scope>sn_may_28</scope>
         <scoped_administration>false</scoped_administration>
-        <short_description/>
+        <short_description>Something </short_description>
         <source>sn_may_28</source>
         <store_correlation_id/>
         <store_url/>
@@ -25,9 +25,9 @@
         <sys_created_by>admin</sys_created_by>
         <sys_created_on>2019-05-28 08:32:24</sys_created_on>
         <sys_id>5a7ceeb3732133001c233096fbf6a70a</sys_id>
-        <sys_mod_count>0</sys_mod_count>
+        <sys_mod_count>1</sys_mod_count>
         <sys_updated_by>admin</sys_updated_by>
-        <sys_updated_on>2019-05-28 08:32:24</sys_updated_on>
+        <sys_updated_on>2019-05-29 13:02:28</sys_updated_on>
         <template/>
         <trackable>true</trackable>
         <user_role/>
